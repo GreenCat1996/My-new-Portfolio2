@@ -12,7 +12,7 @@
     <a href="https://github.com/GreenCat1996/My-new-Portfolio/issues">Request Feature</a>
 </h3>
 
-## TL;DR
+## TL;DR   
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [GreenCat1996](https://github.com/GreenCat1996/My-new-Portfolio). Thanks!
 
